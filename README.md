@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @arta-sejdiu
-- 👀 I’m interested in cooking
-- 🌱 I’m currently learning coding/Front End Development
+- 👀 I’m interested in cooding
+- 🌱 I’m currently learning Front End Development
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me artasejdiu5@g,ail.com
 - 😄 Pronouns: she/her
